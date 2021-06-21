@@ -1,0 +1,43 @@
+.container{
+    
+    text-align: center;
+    
+    font-size: 3rem;
+
+    
+}
+.calculator{
+    display: inline-block;
+    padding: 3rem;
+    background-color: yellowgreen;
+    border-radius: 4rem;
+    
+}
+input:hover{
+    background-color:whitesmoke;
+
+}
+button:hover{
+    background-color: tomato;
+}
+
+  table{
+      margin: auto;
+  }
+input{
+    font-size: 2.5rem;
+    border-radius: 1rem;
+    border: 0.5rem solid black
+}
+button{
+    margin-top: 1rem;
+    cursor: pointer;
+    transition-duration: 0.4s;
+    border-radius: 5rem;
+    padding: 0.2rem;
+    font-size: 2rem;
+    background-color: yellow;
+    width: 7rem;
+    height: 4rem;
+    
+}
